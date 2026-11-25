@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://islamphpdev-lab.github.io/elkhdiwi/sitemap.xml
